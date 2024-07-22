@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BOUFARES Kabil</h1>
-<h3 align="center">"I am a student in Computer Science, Software Engineering, and Information Systems at the Faculty of Sciences of Tunis (FST). I am passionate about software development and information systems. Additionally, I am an active member of the Free Software Club (CLL) at FST</h3>
+<h3 align="center">I am a student in Computer Science, Software Engineering, and Information Systems at the Faculty of Sciences of Tunis (FST). I am passionate about software development and information systems. Additionally, I am an active member of the Free Software Club (CLL) at FST</h3>
 
-- 🔭 I’m currently working on **web site**
+- 🔭 I’m currently working on **2 Personal Project**
 
 - 📫 How to reach me **boufareskabil81@gmail.com**
 
